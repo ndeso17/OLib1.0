@@ -13,10 +13,10 @@ Ini adalah aplikasi Online Library. Aneh kan namanya?.  <i><b>Terserah saya donk
 # Free
 Yang mau mendapatkan databasenya silahkan chat saya di t.me/khilmy17xitkjone . Gratis tanpa biaya kecuail kuota internet mu sendiri.
 
-Q : Kenapa gx sekalian dipost digithub?
-A : Karena ini unstable jadi saya ingin langsung mendapatkan masukkan dari kalian yang hendak memakai OLib1.0.
-Q : Kan bisa ditanya lewat Issues di Github.
-A : Saya tidak sering cek Github. kecuali jika saya mau post sesuatu.
+- Q : Kenapa gx sekalian dipost digithub?
+- A : Karena ini unstable jadi saya ingin langsung mendapatkan masukkan dari kalian yang hendak memakai OLib1.0.
+- Q : Kan bisa ditanya lewat Issues di Github.
+- A : Saya tidak sering cek Github. kecuali jika saya mau post sesuatu.
 
 # Login
   - User : 
