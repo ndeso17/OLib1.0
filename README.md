@@ -25,3 +25,6 @@ Yang mau mendapatkan databasenya silahkan chat saya di t.me/khilmy17xitkjone . G
   - Admin / Singdue :
       - email/username = admin
       - password       = admin
+
+
+# BELUM SAYA UPLOAD FILENYA
