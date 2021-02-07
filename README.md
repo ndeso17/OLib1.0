@@ -6,8 +6,7 @@ Ini adalah aplikasi Online Library. Aneh kan namanya?.  <i><b>Terserah saya donk
 - Dengan PHPMailer untuk verifikasi setiap orang yang ingin jadi member OLib1.0
 
 # Bug
-- Fungsi Download error ketika saya post di hosting gratisan ( demo : larendacs.triweb.id/OLib )
-- XSS di bagian search.
+- XSS di bagian search admin.
 - Dan lainnya yang belum saya temukan. 
 
 # Free
